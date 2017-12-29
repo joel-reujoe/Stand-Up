@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="notification_title">Stand Up Alert</string>
+    <string name="notification_text">You should stand up and walk around</string>
+    <string name="alarm_on">Alarm is On</string>
+    <string name="alarm_off">Alarm is Off</string>
+</resources>
